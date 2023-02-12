@@ -1,4 +1,4 @@
-# Winner solution on the MIPI 2022 Challenge on Under-display Camera Image Restoration
+# 🥇 Winner solution on the MIPI 2022 Challenge on Under-display Camera Image Restoration
 
 Our team (USTC_WXYZ) wins the [MIPI 2022 Challenge on Under-display Camera Image Restoration](https://mipi-challenge.org/)!
 
