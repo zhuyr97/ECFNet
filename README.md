@@ -28,3 +28,16 @@ We further training our scaled model on the [OTLED dataset](https://github.com/J
 
 Thanks to the great efforts of the open-sourced projects [MIMOUNet](https://github.com/chosj95/MIMO-UNet).
 
+
+## Citation
+In case of use, please cite our publication:
+```
+@inproceedings{zhu2023enhanced,
+  title={Enhanced Coarse-to-Fine Network for Image Restoration from Under-Display Cameras},
+  author={Zhu, Yurui and Wang, Xi and Fu, Xueyang and Hu, Xiaowei},
+  booktitle={Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part V},
+  pages={130--146},
+  year={2023},
+  organization={Springer}
+}
+```
